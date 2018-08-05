@@ -1,0 +1,16 @@
+{
+    "host": "abrikoseg.ru",
+    "username": "admin_anfisa",
+    "password": "zAbB4NlHIp",
+    "remotePath": "/home/admin/web/abrikoseg.ru/public_html/anfisa",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
